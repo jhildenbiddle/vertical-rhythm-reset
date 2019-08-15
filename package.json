@@ -41,7 +41,7 @@
     "browser-sync": "^2.26.3",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.9",
-    "rimraf": "^2.6.3",
+    "rimraf": "^3.0.0",
     "sassdoc": "^2.5.1"
   }
 }
