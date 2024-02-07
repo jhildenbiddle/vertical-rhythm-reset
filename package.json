@@ -1,6 +1,6 @@
 {
   "name": "vertical-rhythm-reset",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Sass/SCSS library for responsive vertical rhythm grids, modular scale typography, and CSS normalization.",
   "author": "John Hildenbiddle",
   "license": "MIT",
